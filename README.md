@@ -6,9 +6,9 @@
 
 2. Run the main.py file with the 3 arguments:
 
-	a. First Digit
-	b. Second Digit
-	c. Operator (+, -, *, /)
+	a. First Digit /n
+	b. Second Digit /n
+	c. Operator (+, -, *, /) /n
 
 ```
 python3 main.py 4 7 +
